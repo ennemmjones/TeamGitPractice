@@ -8,6 +8,7 @@ namespace TeamGitPractice
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Practice");
+            Console.WriteLine("now we have a test");
         }
     }
 }
